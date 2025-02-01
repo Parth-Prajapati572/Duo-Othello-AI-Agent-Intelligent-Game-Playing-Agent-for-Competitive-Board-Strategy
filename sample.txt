@@ -1,0 +1,222 @@
+Running 10 sample boards.
+ 
+### Running sample board 1 ###
+agent O
+rival X
+time1 300.0
+time2 300.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+X
+300.000 300.000
+............
+............
+..XO........
+..OX........
+............
+............
+............
+............
+........XO..
+........OOO.
+............
+............
+ 
+### Running sample board 2 ###
+agent X
+rival O
+time1 120.0
+time2 300.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+O
+120.000 300.000
+X...........
+.XX.........
+.XXX........
+..XOXX......
+..OOOXOX...X
+...XXXOOOOXX
+...X.XOXXX.X
+.....XOOXXXX
+.....XOXOXXX
+.....XOXOOXX
+.....XXXXXXX
+........OOO.
+ 
+### Running sample board 3 ###
+agent O
+rival X
+time1 0.12
+time2 300.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+X
+0.120 300.000
+XXXXXXXXX...
+OXOOOOOOOOOO
+OXXOXOOXXXXX
+OXXOOOXXXXXX
+OXXOXOOXXXXX
+OXOXXOOOXXXX
+OOXOXXXXXXXX
+OOOOOOOOXXXX
+.OOOOXXXXXXX
+XOXXXXOOXXXX
+XXXOXXXXXXXX
+.OXXXXXXXXXX
+ 
+### Running sample board 4 ###
+agent X
+rival O
+time1 7.0
+time2 200.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+O
+7.000 200.000
+O...O.......
+.OXXOO...X..
+.OXXOXOO.X..
+.OOOXXXOOX..
+....XXOOOXOO
+...OXOXXXXXX
+...OXOXXOXOO
+...OXOXOXXOO
+.XXXXOXXXXOO
+....XOOXXXOO
+....XXXOXXOO
+.....OOOOOOO
+ 
+### Running sample board 5 ###
+agent O
+rival X
+time1 50.0
+time2 100.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+X
+50.000 100.000
+............
+..O.........
+..OO........
+..OO........
+....O.......
+.....O..O.X.
+.....XOXXXX.
+.......OXXOO
+.......XOXOO
+......OOOOXO
+........OXOO
+........OOOO
+ 
+### Running sample board 6 ###
+agent X
+rival O
+time1 30.0
+time2 30.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+O
+30.000 30.000
+............
+............
+.OOO........
+..OO........
+...O........
+......O.O...
+.....XOOXX..
+......OXOX..
+...XXXXXXXX.
+......OOOXOO
+.......O.XX.
+..........XO
+ 
+### Running sample board 7 ###
+agent O
+rival X
+time1 23.12
+time2 56.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+X
+23.120 56.000
+............
+.O..........
+..OO........
+..OOO.......
+...O...X....
+....O...XO..
+.....O.X.OOX
+......OXXOOX
+.....OOXXXOX
+......OXXOOX
+.......OOOOX
+........OOO.
+ 
+### Running sample board 8 ###
+agent X
+rival O
+time1 33.0
+time2 200.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+O
+33.000 200.000
+XXXXXX......
+XOOOO.......
+XOOXOOX.....
+XOOOOOOX....
+XXXOOOOOOO..
+XOXOOOXOX...
+XXXXXXOOXXX.
+.XOXXXOOXXXO
+XXOXXXXXXXXO
+..O.....XOXO
+.......XXXXO
+...........O
+ 
+### Running sample board 9 ###
+agent O
+rival X
+time1 1.123
+time2 3.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+X
+1.123 3.000
+XXXXXXOO....
+XXXXXXOOOX..
+XOOXOOOOOOOO
+XOOOOOOXXXOO
+XXXOOOOXXOOO
+XOXOOOXOOOOO
+XOXOOXOOXXOO
+XXXOOOOOOXOO
+XXXXXOOXXXOO
+XXXOXOXXXOOO
+..X..XXOOOOO
+.....OXXOOOO
+ 
+### Running sample board 10 ###
+agent X
+rival O
+time1 12.0
+time2 23.0
+### Checking your move and computing next state (remaining times not updated) ###
+VALID MOVE
+O
+12.000 23.000
+X...........
+.X.X........
+XXXX........
+..OX........
+.OOO........
+...OO.......
+....OO......
+.....O..O...
+.......XOXX.
+........OXX.
+........OXX.
+............
+
