@@ -1,0 +1,1 @@
+Developed a Python-based AI agent for Duo-Othello, a 12x12 variant of Reversi/Othello, designed to compete against reference agents in a time-constrained environment. The agent leverages alpha-beta pruning and adaptive depth selection to optimize move decisions under strict time limits (e.g., 300 seconds total).
